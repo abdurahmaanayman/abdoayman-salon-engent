@@ -1,11 +1,11 @@
-body{
+
+@media (max-width:600px) {
+    body{
     height:100%;
     padding:0px;
     margin:0px;
     overflow-x: hidden;
 }
-
-@media (max-width:600px) {
 
      
     .up-nav .son-nav{
@@ -147,6 +147,12 @@ body{
 
 /************/
 @media (min-width: 601px) and (max-width: 900px) {
+    body{
+    height:100%;
+    padding:0px;
+    margin:0px;
+    overflow-x: hidden;
+}
     .up-nav .son-nav{
         display: grid;
         grid-template-columns: 60% 0% 40%;
@@ -294,6 +300,12 @@ body{
 
 
 @media(max-width:1150px) {
+    body{
+    height:100%;
+    padding:0px;
+    margin:0px;
+    overflow-x: hidden;
+}
     .up-nav .son-nav{
         display: grid;
         grid-template-columns: 60% 0% 40%;
