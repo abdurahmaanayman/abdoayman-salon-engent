@@ -14,9 +14,7 @@ body{
     width: 100%;
     text-align: center;
     visibility: hidden;
-    display: flex;
-    justify-content: center;
-    justify-items: center;
+    
     
 }
 .nav-hidden ul{
@@ -39,7 +37,7 @@ body{
 
 /******up****/
 .up-nav{
-    width: 100%;
+    width: 85%;
     position: fixed;
     background-color: rgba(0, 0, 0, 0.595);
     z-index: 2;
@@ -373,11 +371,7 @@ body{
 .up-footer .son-footer .contact{
     width: 100%;
     text-align: center;
-   /* padding: 50px;*/
-    display: flex;
-    justify-content: center;
-    justify-items: center;
-    
+    padding: 30px;
 }
 .up-footer .son-footer .contact h2{
     color: #ac4c75;
