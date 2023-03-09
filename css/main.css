@@ -36,10 +36,10 @@ body{
 
 /******up****/
 .up-nav{
-    width: 85%;
+    width: 50%;
     position: fixed;
     background-color: rgba(0, 0, 0, 0.595);
-    z-index: 5;
+    z-index: 2;
 }
 /******son********/
 .up-nav .son-nav{
