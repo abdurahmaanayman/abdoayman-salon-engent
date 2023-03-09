@@ -31,7 +31,7 @@
 
 /******up****/
 .up-nav{
-    width: 100%;
+    width: 90%;
     position: fixed;
     background-color: rgba(0, 0, 0, 0.595);
     z-index: 5;
